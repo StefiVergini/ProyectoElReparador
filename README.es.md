@@ -49,11 +49,13 @@ flowchart LR
 
 Cliente --> Recepcion
 
-Recepcion --> Reparacion
-
-Reparacion --> Tecnico
+Recepcion --> Tecnico
 
 Tecnico --> Presupuesto
+
+Presupuesto --> Reparacion
+
+Reparacion --> Garantia
 
 Presupuesto --> Cliente
 
