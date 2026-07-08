@@ -100,7 +100,7 @@ Dynamic forms for creating and updating records.
 Event tracking with visual alerts based on deadlines.
 
 ---
-```markdown
+
 # 📚 Software Engineering Documentation
 
 Beyond the implementation itself, this repository includes the complete software engineering documentation produced throughout the project lifecycle.
@@ -125,7 +125,7 @@ documentation/
 ├── project-management/
 ├── user-manual/
 └── database/
-
+```
 --- 
 
 ## 🚀 Features
